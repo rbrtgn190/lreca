@@ -1,0 +1,11 @@
+[16:36:00.26] Info: Running build Release_2021.2.0_2226 on windows
+[16:36:00.26] Info: DevWeb offline generator started with 'swagger' mode, 'pages' level.
+[16:36:00.26] Info: Generating script from 'swagger.json'.
+[16:36:00.26] Info: Using configuration file: C:\ProgramData\Micro Focus\LoadRunner\DevWeb\generator_config.yml.
+[16:36:00.27] Info: Configured headers to filter: [Host Content-Length Cookie]
+[16:36:00.27] Info: Configured hosts exclude list: [.*google.* .*bing.* .*geolocation.* .*gstatic.* .*firefox.*]
+[16:36:00.27] Info: Configured extensions to filter: [.ico]
+[16:36:00.30] Info: scenario.yml already exists at 'C:\demo\lreca\petstoreWS' and will not be updated.
+[16:36:00.30] Info: rts.yml already exists at 'C:\demo\lreca\petstoreWS\rts.yml' and will not be updated.
+[16:36:00.30] Info: DevWeb script generated in folder 'C:\demo\lreca\petstoreWS'.
+[16:36:00.30] Info: Save input file as C:\demo\lreca\petstoreWS\codegen\codegen.json
