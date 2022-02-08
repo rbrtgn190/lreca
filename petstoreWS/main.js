@@ -6,6 +6,10 @@ load.initialize("Initialize", async function () {
 });
 
 load.action("Action", async function () {
+    const TRT_getPetById = new load.Transaction("getPetById");
+    TRT_getPetById.start();
+    const httpResp = swaggerApi.getPetById("1");
+    TRT_getPetById.stop();
 });
 
 load.finalize("Finalize", async function () {

@@ -1,0 +1,7 @@
+## DevWeb
+# DevWeb results folders
+results*/
+# DevWeb codegen folder
+codegen/
+# DevWeb log
+lr?_uploader.log
