@@ -7,9 +7,9 @@ LRE Config :
     lreca
 
 git branches
-    master      : Project template with swagger.json
-    swaggerAPI  : swaggerAPI.js generated with Terminal > Run Task > Generate Swagger API functions
-    runable     : 
+      master      : Project template with swagger.json
+      swaggerAPI  : swaggerAPI.js generated with Terminal > Run Task > Generate Swagger API functions
+    > runable     : 
         runable script
         lre_uploader.yml
         InfluxDB/Grafana configured within %DEVWEB_PATH% > local.config.yml > measurements & influxDB (database is devWebDB)
