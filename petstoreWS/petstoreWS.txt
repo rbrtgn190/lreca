@@ -1,0 +1,2 @@
+Swagger UI 	: https://petstore.swagger.io
+Swagger.json	: https://petstore.swagger.io/v2/swagger.json
