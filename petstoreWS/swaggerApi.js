@@ -21,6 +21,7 @@ function getPetById(petId){
     const webRequest0 = new load.WebRequest({
         url: `${this.$.getSchema()}://${this.$.getHost()}/${this.$.getBasePath()}/pet/${petId}`,
         method: "GET",
+        returnBody: true,
         headers: {
             "accept": "application/json,application/xml"
         },
